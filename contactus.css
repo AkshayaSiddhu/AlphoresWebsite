@@ -1,0 +1,45 @@
+form{
+	border: solid 1px;
+	width: 750px;
+	margin-left: 240px;
+	margin-top: 100px;
+	padding-left: 25px;
+	background: #f59f62;
+	padding-bottom: 20px;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	color: darkblue;
+}
+p{
+	font-size: 25px;
+}
+label{
+	font-size: 30px;
+	color: blue;
+}
+input{
+	width: 350px;
+	height: 35px;
+	background-color: #f08dd9;
+	border-width: 1px;
+	font-size: 20px;
+	color: red;
+}
+textarea{
+	background-color: #f08dd9;
+	font-size: 20px;
+	width: 500px;
+	height: 150px;
+	border-width: 1px;
+}
+button{
+	width: 160px;
+	height: 60px;
+	background-color: burlywood;
+	border-radius: 15px;
+}
+body{
+	background-color: #ab3545;
+}
